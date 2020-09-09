@@ -241,7 +241,7 @@
     				<div class="py-md-5">
 		          <div class="heading-section heading-section-white ftco-animate mb-5">
 		            <h2 class="mb-4">Report a case</h2>
-		            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor.</p>
+		            <p>Tell us what's going on in your community and we will find a way to reach you, soon!</p>
 		          </div>
 		          <form action="#" class="appointment-form ftco-animate">
 		    				<div class="d-md-flex">
@@ -461,28 +461,28 @@
     	<div class="container-wrap">
     		<div class="row no-gutters">
 					<div class="col-md-3 ftco-animate">
-						<a href="images/bg_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/bg_3.jpg);">
+						<a href="images/bg_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste1.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-instagram"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/bg_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/bg_1.jpg);">
+						<a href="images/bg_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste2.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-instagram"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/bg_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/bg_2.jpg);">
+						<a href="images/bg_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste3.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-instagram"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/bg_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/bg_1.jpg);">
+						<a href="images/bg_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste4.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-instagram"></span>
     					</div>
