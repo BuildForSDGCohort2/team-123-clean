@@ -162,7 +162,7 @@
     
 	     <div id="breakspace"></div>	
 		
-
+<div id="about">
 		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-2 d-flex">
@@ -228,12 +228,12 @@
         </div>
     	</div>
     </section>
-
+</div>
    
 
+<div id="report">
 
-
-    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" id="report" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
+    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
     	<div class="overlay"></div>
     	<div class="container">
     		<div class="row justify-content-end">
@@ -286,8 +286,11 @@
         </div>
     	</div>
     </section>
+</div>
+	
+	<div id="blog">
 
-		<section class="ftco-section bg-light" id="blog">
+		<section class="ftco-section bg-light">
 			<div class="container">
 				<div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
@@ -365,6 +368,7 @@
         </div>
 			</div>
 		</section>
+		</div>
 
 		<section class="ftco-section testimony-section">
       <div class="container">
