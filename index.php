@@ -42,7 +42,7 @@
 					    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
 						    <div class="text">
 						    	<span>Call</span>
-						    	<span>Call Us: + 1235 2355 98</span>
+						    	<span>Call Us: +234 807 4303 908</span>
 						    </div>
 					    </div>
 					    <div class="col-md topper d-flex align-items-center justify-content-end">
@@ -71,10 +71,10 @@
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav mr-auto">
 	        	<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	        	<li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-	        	<li class="nav-item"><a href="Report.html" class="nav-link">Report</a></li>
-	        	<li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+	        	<li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
+	        	<li class="nav-item"><a href="#report" class="nav-link">Report</a></li>
+	        	<li class="nav-item"><a href="#blog" class="nav-link">Blog</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -88,7 +88,7 @@
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
             <h1 class="mb-4">Community Service</h1>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere,</p>
+            <p>Contribute positively to your communinty by helping in cleaning activities.</p>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Register</a></p>
           </div>
         </div>
@@ -101,7 +101,7 @@
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
             <h1 class="mb-4">Helping community to eradicate and curb wastes</h1>
-            <p>Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.</p>
+            <p>Wastes don't just cause unhealthy environment, they bring ill-health and causes several diseases and distastes.</p>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Report Now</a></p>
           </div>
         </div>
@@ -119,7 +119,7 @@
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Nearby</h3>
-                <p>Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacin</p>
+                <p>To clean our nation, we need to start from the closest point! Starting from our homes make a total difference</p>
               </div>
             </div>      
           </div>
@@ -130,7 +130,7 @@
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Report Now</h3>
-                <p>Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacin</p>
+                <p>Do you think the government needs to know about it? Send a report now and it will reach the appropriate quaters!</p>
               </div>
             </div>    
           </div>
@@ -140,8 +140,8 @@
             		<span class="flaticon-books"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Succeful Story</h3>
-                <p>Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacin</p>
+                <h3 class="heading">Successful Story</h3>
+                <p>Don't keep it to yourself! Share your success story of cleaning your commuity and get featured on our blog!</p>
               </div>
             </div>      
           </div>
@@ -152,7 +152,7 @@
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Vacancy</h3>
-                <p>Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacin</p>
+                <p>We will notify you of job vacancies across Nigerian Ministries of Water Resources and Health sectors!</p>
               </div>
             </div>      
           </div>
@@ -163,7 +163,7 @@
 	     <div id="breakspace"></div>	
 		
 
-		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
+		<section id="about" class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-2 d-flex">
     			<div class="col-md-6 align-items-stretch d-flex">
@@ -177,9 +177,12 @@
     			</div>
           <div class="col-md-6 heading-section heading-section-white ftco-animate pl-lg-5 pt-md-0 pt-5">
             <h2 class="mb-4">SafeBin</h2>
-            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor.</p>
-            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor.</p>
-          </div>
+            	<p>Our Core Values
+		<p>Track wastes in the society
+		<p>Engage in community service by partaking in cleaning activities while earning badges
+		<p>Help communicate to the government on dirty communities needing attention
+		<p>Publicize neatness and its health advantages to personal and community hygiene
+	  </div>
         </div>	
     		<div class="row d-md-flex align-items-center justify-content-center">
     			<div class="col-lg-12">
@@ -198,7 +201,7 @@
 		            	<div class="icon"><span class="flaticon-doctor"></span></div>
 		              <div class="text">
 		                <strong class="number" data-number="200">0</strong>
-		                <span>Community</span>
+		                <span>Communities</span>
 		              </div>
 		            </div>
 		          </div>
@@ -230,7 +233,7 @@
 
 
 
-    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
+    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" id="report" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
     	<div class="overlay"></div>
     	<div class="container">
     		<div class="row justify-content-end">
@@ -284,7 +287,7 @@
     	</div>
     </section>
 
-		<section class="ftco-section bg-light">
+		<section class="ftco-section bg-light" id="blog">
 			<div class="container">
 				<div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
