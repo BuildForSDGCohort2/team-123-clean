@@ -182,7 +182,7 @@
 		<p>Engage in community service by partaking in cleaning activities while earning badges
 		<p>Help communicate to the government on dirty communities needing attention
 		<p>Publicize neatness and its health advantages to personal and community hygiene
-	  </div>
+	 
         </div>	
     		<div class="row d-md-flex align-items-center justify-content-center">
     			<div class="col-lg-12">
