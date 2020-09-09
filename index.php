@@ -163,7 +163,7 @@
 	     <div id="breakspace"></div>	
 		
 
-		<section id="about" class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
+		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-2 d-flex">
     			<div class="col-md-6 align-items-stretch d-flex">
@@ -182,7 +182,7 @@
 		<p>Engage in community service by partaking in cleaning activities while earning badges
 		<p>Help communicate to the government on dirty communities needing attention
 		<p>Publicize neatness and its health advantages to personal and community hygiene
-	 
+	 </div>
         </div>	
     		<div class="row d-md-flex align-items-center justify-content-center">
     			<div class="col-lg-12">
