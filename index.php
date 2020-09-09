@@ -461,28 +461,28 @@
     	<div class="container-wrap">
     		<div class="row no-gutters">
 					<div class="col-md-3 ftco-animate">
-						<a href="images/bg_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste1.jpg);">
+						<a href="images/waste1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste1.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-instagram"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/bg_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste2.jpg);">
+						<a href="images/waste2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste2.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-instagram"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/bg_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste3.jpg);">
+						<a href="images/waste3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste3.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-instagram"></span>
     					</div>
 						</a>
 					</div>
 					<div class="col-md-3 ftco-animate">
-						<a href="images/bg_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste4.jpg);">
+						<a href="images/waste4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/waste4.jpg);">
 							<div class="icon mb-4 d-flex align-items-center justify-content-center">
     						<span class="icon-instagram"></span>
     					</div>
