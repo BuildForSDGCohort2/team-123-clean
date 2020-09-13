@@ -42,7 +42,7 @@
 					    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
 						    <div class="text">
 						    	<span>Call</span>
-						    	<span>Call Us: +234 807 4303 908</span>
+						    	<span>Call Us: +2348074303908</span>
 						    </div>
 					    </div>
 					    <div class="col-md topper d-flex align-items-center justify-content-end">
@@ -100,7 +100,7 @@
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">Helping communities to eradicate wastes and curb improper waste disposal</h1>
+            <h1 class="mb-4">Helping communities eradicate wastes and curb improper waste disposal</h1>
             <p>Wastes don't just cause unhealthy environment, they bring ill-health and causes several diseases and distastes.</p>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Report Now</a></p>
           </div>
@@ -502,7 +502,7 @@
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Some Where in Africa</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2348074303908</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@safe-bin.com</span></a></li>
 	              </ul>
 	            </div>
