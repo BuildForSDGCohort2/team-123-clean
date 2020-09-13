@@ -4,7 +4,7 @@
     <title>SafeBin - Waste free Enviroment</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+    <link rel="icon" type="image/png" sizes="16x16" href="images/bin.png">
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
@@ -42,7 +42,7 @@
 					    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
 						    <div class="text">
 						    	<span>Call</span>
-						    	<span>Call Us: +234 807 4303 908</span>
+						    	<span>Call Us: +2348074303908</span>
 						    </div>
 					    </div>
 					    <div class="col-md topper d-flex align-items-center justify-content-end">
@@ -87,7 +87,7 @@
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">Community Service</h1>
+            <h1 class="mb-4">Join In Community Service</h1>
             <p>Contribute positively to your communinty by helping in cleaning activities.</p>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Register</a></p>
           </div>
@@ -100,7 +100,7 @@
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">Helping community to eradicate and curb wastes</h1>
+            <h1 class="mb-4">Helping communities eradicate wastes and curb improper waste disposal</h1>
             <p>Wastes don't just cause unhealthy environment, they bring ill-health and causes several diseases and distastes.</p>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Report Now</a></p>
           </div>
@@ -376,8 +376,13 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
+<<<<<<< HEAD
             <h2 class="mb-4">Successful Story</h2>
             <p>We make people's lives easier and more productive. Learn how in our customer success stories.</p>
+=======
+            <h2 class="mb-4">Success Stories</h2>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+>>>>>>> upstream/develop
           </div>
         </div>
         <div class="row ftco-animate justify-content-center">
@@ -478,7 +483,7 @@
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Some Where in Africa</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2348074303908</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@safe-bin.com</span></a></li>
 	              </ul>
 	            </div>
