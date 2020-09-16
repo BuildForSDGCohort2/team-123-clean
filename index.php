@@ -295,7 +295,8 @@
 				<div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="mb-4"><span>Recent</span> Blog</h2>
-            <p>View Our Blog. See Stories of People that has helped their communities and made impact.</p>
+            <p>Get the latest news about keeping the environment clean from us.</p>
+
           </div>
         </div>
 				<div class="row">
@@ -309,8 +310,8 @@
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">How to keep our Enviroment Clean</a></h3>
-                <p>This is coming soon.</p>
+                <h3 class="heading"><a href="#">Our roles in keeping the emvironment clean</a></h3>
+                <p>We as humans has an important role to play in improving our environment. </p>
                 <div class="d-flex align-items-center mt-4">
 	                <p class="mb-0"><a href="#" class="btn btn-primary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
 	                <p class="ml-auto mb-0">
@@ -331,8 +332,9 @@
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">How to keep our Enviroment Clean</a></h3>
-                <p>This is coming soon.</p>
+                <h3 class="heading"><a href="#">Seven ways to keep our Enviroment Clean</a></h3>
+                <p>Instead of purchasing disposable items like plastic plates, spoons and cups, opt for reusable,
+                  washable flatware instead.</p>
                 <div class="d-flex align-items-center mt-4">
 	                <p class="mb-0"><a href="#" class="btn btn-primary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
 	                <p class="ml-auto mb-0">
@@ -353,8 +355,9 @@
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#">How to keep our Enviroment Clean</a></h3>
-                <p>This is coming soon.</p>
+                <h3 class="heading"><a href="#">Everything you need to know about climate change.</a></h3>
+                <p>Climate change, periodic modification of Earth’s climate brought about as a result of changes in the
+                  atmosphere as well as interactions between the atmosphere...</p>
                 <div class="d-flex align-items-center mt-4">
 	                <p class="mb-0"><a href="#" class="btn btn-primary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
 	                <p class="ml-auto mb-0">
@@ -375,7 +378,7 @@
         <div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="mb-4">Success Stories</h2>
-            <p>View Success Stories of Clean Communities Across Africa.</p>
+            <p>We make people's lives easier and more productive. Learn how in our customer success stories.</p>
           </div>
         </div>
         <div class="row ftco-animate justify-content-center">
@@ -389,7 +392,9 @@
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>My community was some mess. Thanks to SafeBin, we cleaned it through community service.</p>
+                    <p>
+                      With the ability to gather and store substantial information about our environment,
+                      it has drastically improve the quality of the environment</p>
                     <p class="name">Johnson Pet</p>
                     <span class="position">Farmer</span>
                   </div>
@@ -403,7 +408,7 @@
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>This is great.</p>
+                    <p>With SafeBin, it has improve publication of neatness and its health advantages to personal and community hygiene</p>
                     <p class="name">Nick Martins</p>
                     <span class="position">Community Head</span>
                   </div>
@@ -431,7 +436,7 @@
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
-                    <p>We now trade in a clean, healthy environment.</p>
+                    <p>SafeBin has helped me to realize the importance of keeping our environment clean</p>
                     <p class="name">Morrin Abiba</p>
                     <span class="position">Trader</span>
                   </div>
@@ -514,7 +519,8 @@
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
                 <div class="text">
-                  <h3 class="heading"><a href="#">Coming Soon!</a></h3>
+                  <h3 class="heading"><a href="#">Our roles in keeping the emvironment clean</a></h3>
+
                   <div class="meta">
                     <div><a href="#"><span class="icon-calendar"></span> September 27, 2020</a></div>
                     <div><a href="#"><span class="icon-person"></span> Admin</a></div>
@@ -525,7 +531,8 @@
               <div class="block-21 mb-5 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
                 <div class="text">
-                  <h3 class="heading"><a href="#">Coming Soon!</a></h3>
+                  <h3 class="heading"><a href="#">Seven ways in keeping our environment clean.</a></h3>
+
                   <div class="meta">
                     <div><a href="#"><span class="icon-calendar"></span> September 27, 2020</a></div>
                     <div><a href="#"><span class="icon-person"></span> Admin</a></div>
