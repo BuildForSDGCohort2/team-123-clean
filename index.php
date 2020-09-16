@@ -262,7 +262,7 @@
 		                      <option value="">Nigeria</option>
 		                      <option value="">Ghana</option>
 		                      <option value="">South Africa</option>
-		                      <option value="">Kanya</option>
+		                      <option value="">Kenya</option>
 		                      <option value="">Other</option>
 		                    </select>
 		                  </div>
@@ -296,6 +296,7 @@
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="mb-4"><span>Recent</span> Blog</h2>
             <p>Get the latest news about keeping the environment clean from us.</p>
+
           </div>
         </div>
 				<div class="row">
@@ -376,13 +377,8 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-2">
           <div class="col-md-8 text-center heading-section ftco-animate">
-<<<<<<< HEAD
-            <h2 class="mb-4">Successful Story</h2>
-            <p>We make people's lives easier and more productive. Learn how in our customer success stories.</p>
-=======
             <h2 class="mb-4">Success Stories</h2>
-            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
->>>>>>> upstream/develop
+            <p>We make people's lives easier and more productive. Learn how in our customer success stories.</p>
           </div>
         </div>
         <div class="row ftco-animate justify-content-center">
@@ -420,6 +416,20 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
+                  <div class="user-img mr-4" style="background-image: url(images/person-1.jpg)">
+                  </div>
+                  <div class="text ml-2">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p>Wow!!! I earned badges cleaning my environment.</p>
+                    <p class="name">Chika ABB</p>
+                    <span class="position">Banker</span>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap d-flex">
                   <div class="user-img mr-4" style="background-image: url(images/person-2.jpg)">
                   </div>
                   <div class="text ml-2">
@@ -429,6 +439,20 @@
                     <p>SafeBin has helped me to realize the importance of keeping our environment clean</p>
                     <p class="name">Morrin Abiba</p>
                     <span class="position">Trader</span>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img mr-4" style="background-image: url(images/person-2.jpg)">
+                  </div>
+                  <div class="text ml-2">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p>My students come to school with good health. Thanks to SafeBin.</p>
+                    <p class="name">Chuks Morrison</p>
+                    <span class="position">Teacher</span>
                   </div>
                 </div>
               </div>
@@ -496,6 +520,7 @@
                 <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
                 <div class="text">
                   <h3 class="heading"><a href="#">Our roles in keeping the emvironment clean</a></h3>
+
                   <div class="meta">
                     <div><a href="#"><span class="icon-calendar"></span> September 27, 2020</a></div>
                     <div><a href="#"><span class="icon-person"></span> Admin</a></div>
@@ -507,6 +532,7 @@
                 <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
                 <div class="text">
                   <h3 class="heading"><a href="#">Seven ways in keeping our environment clean.</a></h3>
+
                   <div class="meta">
                     <div><a href="#"><span class="icon-calendar"></span> September 27, 2020</a></div>
                     <div><a href="#"><span class="icon-person"></span> Admin</a></div>
