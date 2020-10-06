@@ -47,7 +47,7 @@
 					    </div>
 					    <div class="col-md topper d-flex align-items-center justify-content-end">
 					    	<p class="mb-0">
-					    		<a href="#" class="btn py-2 px-3 btn-primary d-flex align-items-center justify-content-center">
+					    		<a href="https://safebin-backend.herokuapp.com/" class="btn py-2 px-3 btn-primary d-flex align-items-center justify-content-center">
 					    			<span>Register</span>
 					    		</a>
 					    	</p>
@@ -89,7 +89,7 @@
           <div class="col-md-6 ftco-animate">
             <h1 class="mb-4">Join In Community Service</h1>
             <p>Contribute positively to your communinty by helping in cleaning activities.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Register</a></p>
+            <p><a href="https://safebin-backend.herokuapp.com/" class="btn btn-primary px-4 py-3 mt-3">Register</a></p>
           </div>
         </div>
         </div>
